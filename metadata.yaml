@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4037
     wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29617#The-Vagrant-Duke
 gutenberg_issued: '2009-08-06'
 gutenberg_type: Text
 identifiers:
